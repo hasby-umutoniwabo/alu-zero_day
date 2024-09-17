@@ -1,2 +1,1 @@
-# alu-zero_day
-ALU zero day
+Alu zero day
